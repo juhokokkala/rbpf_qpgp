@@ -2,7 +2,7 @@
 
 A Rao-Blackwellized particle filter for a model with Poisson-distributed observations whose log-intensity follows a quasiperiodic Gaussian process.
 
-Documentation in http://www.juhokokkala.fi/blog/rao-blackwellized-particle-filters-for-quasiperiodic-gaussian-processes/
+Documentation in http://www.juhokokkala.fi/blog/posts/rao-blackwellized-particle-filters-for-quasiperiodic-gaussian-processes/
 
 ## Requirements
 NumPy, GPy. matplotlib for plotting. Python 3.5 due to the matrix multiplication operator.
